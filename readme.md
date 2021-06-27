@@ -39,5 +39,5 @@
 - To run this app, click live github website link given below. OR
 - open index.html in your browser.
 
-## Repo Link: https://github.com/rafatfatima-qa/GuessNum
+## Repo Link: https://github.com/Hamza-Sajid/Guess-Number-App
 ## Live Link: https://github.com/Hamza-Sajid/Guess-Number-App
