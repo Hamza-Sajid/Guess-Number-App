@@ -40,4 +40,4 @@
 - open index.html in your browser.
 
 ## Repo Link: https://github.com/rafatfatima-qa/GuessNum
-## Live Link: https://rafatfatima-qa.github.io/GuessNum/
+## Live Link: https://github.com/Hamza-Sajid/Guess-Number-App
